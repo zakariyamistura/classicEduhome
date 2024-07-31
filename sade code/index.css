@@ -1,0 +1,188 @@
+*{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.list div{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.list div ul{
+    display: flex;
+    margin-left: 300px;
+}
+.list div span{
+    display: flex;
+    margin-left: 300px;
+
+}
+.list div p{
+    margin-left: 15px;
+    color: blue;
+}
+.eduu li p{
+    font-size: 23px;
+}
+.list div ul li{
+    padding: 10px;
+}
+.list div span li{
+    padding: 10px;
+}
+.peeple,.search span li{
+    color: blue;
+    background-color: white;
+    border: 10px;
+    inline-size: auto;
+    
+}
+.peeple span li .bi-person,.pers{
+    background-color: blue;
+    color: white;
+    padding: 10px 5px;
+}
+.learn div{
+margin-top: 150px;
+padding: 15px;
+}
+.better,.future p{
+    color: blue;
+}
+.learn h1{
+    font-size: 40px;
+    color: darkblue;
+}
+.today li{
+color: white;
+background-color: blue;
+padding: 20px 2px;
+width: 150px;
+}
+.course h5{
+   text-align: center;
+   color: blue;
+}
+.course h3{
+    text-align: center;
+    font-size:  25px;
+}
+.foott div ul{
+    padding-bottom: 50px;
+}
+.couyy div ul{
+    display: flex;
+}
+.whowho  div{
+    margin-top: 50px;
+}
+.whowho div h5{
+    color: blue;
+    font-size: 12px;
+}
+.whowho div h2{
+color: darkblue;
+}
+.whowho div ul{
+    text-align: center;
+    margin-top: 55px;
+    color: white;
+    background-color: blue;
+    width: 150px;
+    height: 30px;
+    padding: 20px 2px;
+    margin-bottom: 10px;
+}
+.whowho div p img{
+    margin-top: 20px;
+}
+.works, .span{
+    background-color: blue;
+    margin-top: 50px;
+    height: 200px;
+    padding: 5px 5px;
+}
+.works span h4{
+    color: white;
+    font-size: 15px;
+    font-size: 12px;
+}
+.works span h3{
+    color: white;
+    margin-top: 5px;   
+     font-size: 30px;
+}
+.works span ol li{
+    color: blue;
+    margin-top: 30px;
+    background-color: white;
+    width: 220px;
+    height: 50px;
+    padding: 20px 5px;
+}
+.fome p{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.plore p{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.Links p{
+     font-size: 20px;
+     margin-bottom: 15px;
+}
+.info h5{
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.works span p{
+    color: white;
+}
+.contant{
+    display: flex;
+    padding: 15px;
+    margin-top: 80px;
+    background-color: darkblue;
+    padding: 2px 20px;
+}
+.navone{
+    padding: 15px;
+    padding-left: 20px;
+    padding-right:180px ;
+}
+.navtwo{
+    padding: 15px;
+    padding-right: 180px;
+    
+}
+.navthree{
+    padding:15px ;
+    padding-right: 150px;
+}
+.navfour{
+    padding: 15px;
+}
+.navone, .p{
+    color: white;
+}
+.navtwo,p ul li a{
+    color: white;
+}
+.list ul li a{
+    color: white;
+}
+.navthree,.p{
+    color: white;
+}
+.lisst ol li a{
+    color: white;
+}
+.navfour,.h5{
+    color: white;
+}
+.okk h5{
+    color: white;
+}
